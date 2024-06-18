@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "seangau",
+  "license": "N/A",
   "description": "",
   "dependencies": {
     "pug": "^3.0.3"
